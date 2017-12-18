@@ -1,0 +1,83 @@
+html,body,ul,ol,dl,li,dt,dd,p,h1,h2,h3,h4,h5,h6,form,input,form,textarea{
+	margin: 0;
+	padding: 0;
+}
+body{ 
+	font-family:"微软雅黑";
+	font-size:12px;
+}
+em,i{
+	font-style: normal;
+}
+strong,b{
+	font-weight: normal;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight:100;
+}
+img,fieldset{
+	border:0; 
+	display: block;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	color:#000;
+}
+
+#banner{
+
+}
+#banner .ban-con{
+	position: relative;
+    width: 1190px;
+    height: 480px;
+    left: 50%;
+    margin: 0px 0px 0px -595px;
+}
+#banner .slh{
+	display: block;
+    overflow: hidden;
+    position: absolute;
+    left: -250px;
+    top: 0;
+    width: 350px;
+    height: 480px;
+}
+#banner .ban-list{
+	overflow: hidden;
+    padding: 16px 0;
+    width: 190px;
+    height: 448px;
+    background-color: #6e6568;
+    color: #fff;
+    float: left;
+}
+#banner .ban-list a{
+    color: #fff;
+	font-size: 14px;
+	line-height: 28px;
+}
+#banner .ban-ban{
+	float: left;
+	margin-left: 10px;
+	margin-bottom:10px ;
+}
+#banner .ban-down{
+	margin-top:10px;
+}
+#banner .ban-down img{
+	float: left;
+}
+#banner .ban-down img:nth-child(1){
+	margin-right:10px;
+}
+#banner .ban-login{
+	float: right;
+    margin-left: 10px;
+    width: 190px;
+    height: 100%;
+    background-color: #000;
+}
