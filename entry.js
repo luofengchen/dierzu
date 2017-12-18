@@ -13,6 +13,7 @@ class App extends React.Component{
 		return(
 			<div>
 				<Find/>
+				a
 				<Banner/>
 			</div>
 		)
