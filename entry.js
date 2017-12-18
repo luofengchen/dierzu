@@ -16,12 +16,10 @@ class App extends React.Component{
 	render(){
 		return(
 			<div>
-			123123123
 				<Ad/>
 				<Nav/>
 				<Banner/>
 				<Find/>
-				<Footer/>
 			</div>
 		)
 	}
