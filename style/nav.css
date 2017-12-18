@@ -1,0 +1,45 @@
+.nav_wrap {
+	border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+}
+
+.nav {
+	height: 30px;
+    line-height: 30px;
+    color: #999;
+    margin: auto;
+    width: 1190px;
+}
+
+.nav_right {
+	float: right;
+	font-size: 14px;
+}
+
+.nav_right li {
+	float: left;
+	list-style: none;
+	text-align: center;
+}
+
+.nav_spacer {
+	overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+
+.nav_right_login {
+	margin-right: 8px;
+}
+
+.nav_right_login a {
+	text-decoration: none;
+}
+
+.nav_right_register {
+	color: red;
+}
+
+

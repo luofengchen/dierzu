@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,body {
+	width: 100%;
+}
+
+.ad_wrap {
+	width: 100%;
+	position: relative;
+    z-index: 30;
+    background-color: #9D0E22;
+}
+
+.ad {
+	position: relative;
+	margin: 0 auto;
+    width: 1190px;
+}
+
+.ad_lk {
+	display: block;
+    width: 100%;
+    height: 80px;
+    background: url(//img20.360buyimg.com/da/jfs/t14179/275/1587011951/41615/5ab3bf75/5a24c749N3388bb44.jpg) no-repeat 50% 0;
+    text-decoration: none;
+}
+
+
